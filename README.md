@@ -28,10 +28,6 @@ export default function useMyContract() {
 }
 ```
 
-## Previous Art
-
-- [NoahZinsmeister/hypertext](https://github.com/NoahZinsmeister/hypertext)
-
 ## Getting Started
 
 First, run the development server:
